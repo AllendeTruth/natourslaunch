@@ -2,8 +2,8 @@
   "name": "starter",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "git@github.com:iamruhul/natours.git",
-  "author": "iamruhul <ruhulamin3482@gmail.com>",
+  "repository": "git@github.com:AllendeTruth/natourslaunch.git",
+  "author": "Nicholas <nicholas.anderson.m.ed@gmail.com>",
   "license": "MIT",
   "private": false,
   "scripts": {
